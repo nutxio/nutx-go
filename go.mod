@@ -1,4 +1,4 @@
-module github.com/nuxtio/nutx-go
+module github.com/nutxio/nutx-go
 
 go 1.15
 
