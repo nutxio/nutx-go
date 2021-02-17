@@ -2,7 +2,7 @@ package initialize
 
 import (
 	"fmt"
-	"github.com/nuxtio/nutx-go/g"
+	"github.com/nutxio/nutx-go/g"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 	"gorm.io/gorm/schema"

@@ -2,7 +2,7 @@ package g
 
 import (
 	"github.com/go-redis/redis"
-	"github.com/nuxtio/nutx-go/config"
+	"github.com/nutxio/nutx-go/config"
 	"gorm.io/gorm"
 )
 

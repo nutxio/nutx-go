@@ -2,7 +2,7 @@ package file
 
 import (
 	"github.com/aliyun/aliyun-oss-go-sdk/oss"
-	"github.com/nuxtio/nutx-go/g"
+	"github.com/nutxio/nutx-go/g"
 )
 
 type Oss struct {
