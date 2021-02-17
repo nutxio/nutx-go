@@ -11,7 +11,7 @@ import (
 	open "github.com/silenceper/wechat/v2/openplatform/config"
 	"github.com/silenceper/wechat/v2/pay"
 	payConfig "github.com/silenceper/wechat/v2/pay/config"
-	"github.com:nuxtio/nutx-go/g"
+	"github.com/nuxtio/nutx-go/g"
 )
 
 // 获取公众号服务
